@@ -4,6 +4,14 @@ Welcome to the **Volume Bot V2**, an advanced and highly efficient tool designed
 
 Arguably one of the best in the market, this bot ensures your coin pushes the limits on trending across various platforms like DexScreener, BirdEye, and numerous Telegram shitcoin groups.
 
+**TELEGRAM** for contact & **POC**(Proof of Concept): [@benoriz0](https://t.me/benoriz0)
+
+**Other tools**
+- Solana JITO Bundler
+- Non-JITO Bundler
+- LP Manager
+- Telegram Cloner
+
 ## Features
 
 - **Automatic Distribution**: Everything from keypairs, wallet checks, and SOL retrieval operations are automated. Enjoy a hassle-free experience with our user-friendly prompts.
