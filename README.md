@@ -1,10 +1,14 @@
 # 🚀 Solana Volume Bot V2 🚀
 
-Welcome to the **Volume Bot V2**, an advanced and highly efficient tool designed for enhancing 'naturally' the trading volume of solana shitcoins. 
+An advanced and highly efficient tool designed for enhancing 'naturally' the trading volume of solana shitcoins. 
 
 Arguably one of the best in the market, this bot ensures your coin pushes the limits on trending across various platforms like DexScreener, BirdEye, and numerous Telegram shitcoin groups.
 
 **TELEGRAM** for contact & **POC**(Proof of Concept): [@benoriz0](https://t.me/benoriz0)
+
+**TWO AVAILABLE VERSIONS:**
+1. JITO Volume Maker
+2. Non-JITO Volume Maker(lower fees)
 
 **Other tools**
 - Solana JITO Bundler
@@ -15,7 +19,7 @@ Arguably one of the best in the market, this bot ensures your coin pushes the li
 ## Features
 
 - **Automatic Distribution**: Everything from keypairs, wallet checks, and SOL retrieval operations are automated. Enjoy a hassle-free experience with our user-friendly prompts.
-- **Jito Bundle Infrastructure**: Utilizes the Jito bundle system to conduct multiple rotating wallet transactions for buying and selling. Although this requires small tips, it guarantees the approval of your volume transactions.
+- **Jito Bundle (optional)**: Utilizes the Jito bundle system to conduct multiple rotating wallet transactions for buying and selling. Although this requires small tips, it guarantees the approval of your volume transactions.
 - **Anti-MEV Features**: Our custom on-chain program allows buying and selling in the SAME transaction, eliminating slippage and preventing MEV. This ensures that your volume transactions are secure and loss-free.
 - **Complex On-Chain Programming**: The on-chain program dynamically handles the sales, selling 100% of the token balance at swap time regardless of the purchase amount, ensuring you never lose out.
 - **Pre-Launch Calculations**: Integrated functionality to simulate transaction counts and SOL costs to achieve your desired trading volume, saving you from the complex math and hassle.
