@@ -1,4 +1,4 @@
-# 🚀 Solana Volume Bot V2 🚀
+# 🚀 Solana Volume Bot V3 🚀
 
 An advanced and highly efficient tool designed for enhancing 'naturally' the trading volume of solana shitcoins. 
 
@@ -12,7 +12,9 @@ Arguably one of the best in the market, this bot ensures your coin pushes the li
 
 **Other tools**
 - Solana JITO Bundler
-- Non-JITO Bundler
+- Pump.Fun Bundler(25 buys)
+- Buyers/Holders Maker
+- Non-JITO Bundler(3 buys)
 - LP Manager
 - Telegram Cloner
 
