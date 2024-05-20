@@ -22,6 +22,9 @@ import { Key } from "readline";
 const prompt = promptSync();
 const keyInfoPath = path.join(__dirname, 'keyInfo.json');
 
+
+
+
 swapper();
 
 export async function swapper() {
@@ -58,4 +61,4 @@ export async function swapper() {
         [[370 lines left]]
         [[this is only a function file from the whole project]]
 
-        [[ @benoriz0 on telegram]]
+        [[ @whiz on telegram]]
